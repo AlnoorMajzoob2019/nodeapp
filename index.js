@@ -6,6 +6,6 @@ app.get('/test',(req,res)=>{
     res.send('hi');
 });
 
-app.listen(app.get('port'),()=>{
+app.listen(5000,()=>{
 
 });
